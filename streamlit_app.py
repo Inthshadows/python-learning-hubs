@@ -1,5 +1,3 @@
-%pip install streamlit pandas numpy
-
 %%writefile streamlit_app.py
 
 import streamlit as st
